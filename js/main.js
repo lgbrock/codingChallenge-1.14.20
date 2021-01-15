@@ -7,16 +7,4 @@ function addToArray(userName) {
   console.log(`Welome ${userName}, you are at the ${nameList.length} position`)
 }
 
-addToArray('Turkey Dog', 'Logan');
-
-
-/*
-let namesList = [];
-
-function addToArray(userName) {
-    namesList.push(userName);
-  console.log(`Hello ${userName}, your name has been added to the list and is at ${namesList.length} position`);
-
-}
-addToArray("Bob Bobbity Bobster Bobson");
-*/
+addToArray('Turkey Dog');
